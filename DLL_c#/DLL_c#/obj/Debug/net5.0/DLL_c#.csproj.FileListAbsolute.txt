@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\bin\Debug\net5.0\DLL_c#.exe
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\bin\Debug\net5.0\DLL_c#.deps.json
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\bin\Debug\net5.0\DLL_c#.runtimeconfig.json
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\bin\Debug\net5.0\DLL_c#.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\bin\Debug\net5.0\DLL_c#.dll
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\bin\Debug\net5.0\DLL_c#.pdb
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.AssemblyInfo.cs
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.dll
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\refint\DLL_c#.dll
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.pdb
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\DLL_c#.genruntimeconfig.cache
+C:\Users\sasha\source\repos\DLL_c#\DLL_c#\obj\Debug\net5.0\ref\DLL_c#.dll
